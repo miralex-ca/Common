@@ -6,8 +6,6 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 ### Information Collection and Use
 
-The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
-
 This application is not designed to collect any personally identifiable information. All data (app preferences created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 The app does use third party services that may collect information used to identify you.
