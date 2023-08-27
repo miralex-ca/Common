@@ -8,9 +8,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 This application is not designed to collect any personally identifiable information. All data (app preferences created by you (the user) is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
-The app does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the app:
+The app can use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app:
 
 **Google Play Services**:  https://policies.google.com/privacy
 
